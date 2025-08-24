@@ -2,20 +2,17 @@
   "id": 44,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Netflix Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/netflix-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/netflix-downloader",
   "purchase_url": "https://serp.ly/netflix-downloader",
   "store_product_id": null,
   "name": "Netflix Downloader",
-  "tagline": "https://serp.ly/netflix-downloader",
-  "featured_image": "images/netflix-downloader.jpg",
-  "featured_image_gif": "images/netflix-downloader.gif",
+  "tagline": "Download Netflix shows and movies in 4K with multiple audio tracks",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/netflix-downloader/assets/images/netflix-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/netflix-downloader/assets/images/netflix-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/netflix-downloader",
   "github_repo_tags": [
-    "netflix-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "netflix-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/netflix-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/netflix-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/netflix-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "movies tv shows"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/netflix-downloader",
     "https://devinschumacher.com/netflix-downloader",
-    "https://serp.co/products/netflix-downloader/reviews/"
+    "https://serp.co/products/netflix-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "netflix",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "netflix downloader"
   ]
 }
